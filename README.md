@@ -170,7 +170,7 @@
   
 | 🏅 Achievement | 📊 Details |
 |:---:|:---:|
-| 🥇 **First Rank Holder** | 2 years, EEE Department |
+| 🥇 **Rank Holder** | 2 years, EEE Department |
 | 🚀 **Dual Founder** | Script & Style & Orivox |
 | 🌍 **NASA Global Nominee** | Space Apps Challenge 2024 |
 | 🪟 **Innovation** | Built transparent display prototype |
