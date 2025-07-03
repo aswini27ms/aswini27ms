@@ -1,490 +1,234 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aswini M S - GitHub Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# 👋 Hey, I'm Aswini M S
 
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
-            color: #e2e8f0;
-            line-height: 1.6;
-            min-height: 100vh;
-            overflow-x: hidden;
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=BB86FC&center=true&vCenter=true&width=800&lines=🚀+Founder.+Futurist.+Full-stack+Warlock.;💻+I+don't+just+build+websites...;🌟+I+build+digital+realms+that+inspire.;⚡+Where+creativity+meets+code,+magic+happens.;🌌+Turning+ideas+into+innovative+realities.;🛠️+Crafting+the+future,+one+line+at+a+time." alt="Typing SVG" />
+</div>
 
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+<div align="center">
+  
+![Founder](https://img.shields.io/badge/Founder-Script_&_Style-BB86FC?style=for-the-badge&logo=rocket&logoColor=black)
+![Founder](https://img.shields.io/badge/Founder-Orivox-CF6679?style=for-the-badge&logo=atom&logoColor=black)
+![NASA](https://img.shields.io/badge/NASA-Space_Apps_Global_Nominee-03DAC6?style=for-the-badge&logo=nasa&logoColor=black)
+![Hackathon](https://img.shields.io/badge/Hackathon-Explorer-FF6B35?style=for-the-badge&logo=trophy&logoColor=black)
 
-        .header {
-            text-align: center;
-            margin-bottom: 50px;
-            padding: 40px 0;
-            background: linear-gradient(135deg, rgba(139, 92, 246, 0.1) 0%, rgba(59, 130, 246, 0.1) 100%);
-            border-radius: 20px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: linear-gradient(45deg, transparent, rgba(139, 92, 246, 0.1), transparent);
-            animation: shimmer 3s infinite;
-        }
+---
 
-        @keyframes shimmer {
-            0% { transform: translateX(-100%); }
-            100% { transform: translateX(100%); }
-        }
+## 🎓 Profession / Current Role
 
-        .header h1 {
-            font-size: 3.5rem;
-            font-weight: 800;
-            background: linear-gradient(135deg, #f59e0b, #ef4444, #8b5cf6, #06b6d4);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 15px;
-            z-index: 1;
-            position: relative;
-        }
+<div align="center">
+  
+[![Student](https://img.shields.io/badge/Student-EEE_Engineering-4CAF50?style=flat-square&logo=education&logoColor=white)](https://sece.ac.in)
+[![Founder](https://img.shields.io/badge/Founder-Script_&_Style-BB86FC?style=flat-square&logo=code&logoColor=white)](#)
+[![Founder](https://img.shields.io/badge/Founder-Orivox-03DAC6?style=flat-square&logo=display&logoColor=white)](#)
 
-        .header p {
-            font-size: 1.3rem;
-            color: #94a3b8;
-            z-index: 1;
-            position: relative;
-        }
+</div>
 
-        .badges {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            flex-wrap: wrap;
-            margin-top: 20px;
-            z-index: 1;
-            position: relative;
-        }
+- **3rd Year B.E. Electrical and Electronics Engineering** @ Sri Eshwar College of Engineering
+- **Founder:** [Script & Style](https://github.com/aswini27ms) – Freelance Web Design Studio
+- **Founder:** [Orivox](https://github.com/aswini27ms) – Innovating Futuristic Display & Embedded Tech
+- Web Designer | Freelancer | Hackathon Explorer | Builder of Tech for Good
 
-        .badge {
-            background: linear-gradient(135deg, #8b5cf6, #06b6d4);
-            color: white;
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-size: 0.9rem;
-            font-weight: 600;
-            text-decoration: none;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(139, 92, 246, 0.3);
-        }
+---
 
-        .badge:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(139, 92, 246, 0.5);
-        }
+## 🔧 Top Skills & Technologies
 
-        .section {
-            margin-bottom: 40px;
-            background: rgba(30, 41, 59, 0.5);
-            border-radius: 15px;
-            padding: 30px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            transition: all 0.3s ease;
-        }
+<div align="center">
 
-        .section:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
-            border-color: rgba(139, 92, 246, 0.3);
-        }
+### Frontend Development
+![React](https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1A1A1A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1A1A1A?style=for-the-badge&logo=daisyui&logoColor=5A0EF8)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1A1A1A?style=for-the-badge&logo=framer&logoColor=0055FF)
 
-        .section h3 {
-            font-size: 1.8rem;
-            margin-bottom: 20px;
-            color: #f1f5f9;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1A1A1A?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1A1A1A?style=for-the-badge&logo=spring&logoColor=6DB33F)
 
-        .emoji {
-            font-size: 2rem;
-            filter: drop-shadow(0 0 10px rgba(139, 92, 246, 0.5));
-        }
+### Full Stack & APIs
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-1A1A1A?style=for-the-badge&logo=javascript&logoColor=BB86FC)
+![REST API](https://img.shields.io/badge/REST-API-1A1A1A?style=for-the-badge&logo=api&logoColor=FF6B6B)
+![Mongoose](https://img.shields.io/badge/Mongoose-1A1A1A?style=for-the-badge&logo=mongoose&logoColor=880000)
+![JWT](https://img.shields.io/badge/JWT-1A1A1A?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-        .skill-category {
-            margin-bottom: 15px;
-        }
+### Mobile & App Development
+![Flutter](https://img.shields.io/badge/Flutter-1A1A1A?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Firebase](https://img.shields.io/badge/Firebase-1A1A1A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-        .skill-title {
-            font-weight: 700;
-            color: #f59e0b;
-            margin-bottom: 8px;
-            font-size: 1.1rem;
-        }
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=java&logoColor=ED8B00)
 
-        .skills {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-        }
+### Design & UX
+![Figma](https://img.shields.io/badge/Figma-1A1A1A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Three.js](https://img.shields.io/badge/Three.js-1A1A1A?style=for-the-badge&logo=three.js&logoColor=white)
 
-        .skill {
-            background: linear-gradient(135deg, #374151, #4b5563);
-            color: #e2e8f0;
-            padding: 6px 12px;
-            border-radius: 15px;
-            font-size: 0.9rem;
-            border: 1px solid rgba(139, 92, 246, 0.3);
-            transition: all 0.3s ease;
-        }
+### Data Tools
+![Power BI](https://img.shields.io/badge/Power_BI-1A1A1A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Pandas](https://img.shields.io/badge/Pandas-1A1A1A?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-1A1A1A?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1A1A1A?style=for-the-badge&logo=matplotlib&logoColor=11557c)
 
-        .skill:hover {
-            background: linear-gradient(135deg, #8b5cf6, #06b6d4);
-            transform: scale(1.05);
-            box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
-        }
+</div>
 
-        .project {
-            background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(59, 130, 246, 0.1));
-            border-radius: 12px;
-            padding: 20px;
-            margin-bottom: 20px;
-            border: 1px solid rgba(139, 92, 246, 0.2);
-            transition: all 0.3s ease;
-        }
+---
 
-        .project:hover {
-            transform: translateX(10px);
-            box-shadow: 0 10px 30px rgba(139, 92, 246, 0.2);
-        }
+## 🌟 Notable Projects & Startups
 
-        .project h4 {
-            font-size: 1.3rem;
-            margin-bottom: 8px;
-            color: #06b6d4;
-        }
+<table>
+<tr>
+<td width="50%">
 
-        .project-desc {
-            color: #94a3b8;
-            margin-bottom: 8px;
-            font-style: italic;
-        }
+### 🚀 Script & Style
+**Freelance Web Design Studio**
+> Building portfolios & websites for students/startups
 
-        .project-tech {
-            color: #64748b;
-            font-size: 0.9rem;
-        }
+![React](https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-1A1A1A?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Firebase](https://img.shields.io/badge/Firebase-1A1A1A?style=flat-square&logo=firebase&logoColor=FFCA28)
 
-        .achievement {
-            background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(59, 130, 246, 0.1));
-            border-left: 4px solid #22c55e;
-            padding: 15px;
-            margin-bottom: 15px;
-            border-radius: 0 10px 10px 0;
-            transition: all 0.3s ease;
-        }
+*Founder | Full Stack Developer | UI/UX Designer*
 
-        .achievement:hover {
-            background: linear-gradient(135deg, rgba(34, 197, 94, 0.2), rgba(59, 130, 246, 0.2));
-            transform: translateX(5px);
-        }
+</td>
+<td width="50%">
 
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin-top: 30px;
-        }
+### 🪟 Orivox Transparent Display
+**Smart Display Technology**
+> R&D for transparent LCD panels, futuristic interfaces
 
-        .social-link {
-            background: linear-gradient(135deg, #8b5cf6, #06b6d4);
-            color: white;
-            padding: 12px 24px;
-            border-radius: 25px;
-            text-decoration: none;
-            font-weight: 600;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(139, 92, 246, 0.3);
-        }
+![Embedded](https://img.shields.io/badge/Embedded-Systems-1A1A1A?style=flat-square&logo=raspberry-pi&logoColor=C51A4A)
+![Hardware](https://img.shields.io/badge/Hardware-Design-1A1A1A?style=flat-square&logo=microchip&logoColor=4CAF50)
 
-        .social-link:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 25px rgba(139, 92, 246, 0.5);
-        }
+*Founder | Embedded Tech & Product Design*
 
-        .motto {
-            text-align: center;
-            font-size: 1.2rem;
-            font-style: italic;
-            color: #94a3b8;
-            margin: 40px 0;
-            padding: 20px;
-            background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(59, 130, 246, 0.1));
-            border-radius: 15px;
-            border: 1px solid rgba(139, 92, 246, 0.2);
-        }
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-        .footer {
-            text-align: center;
-            margin-top: 40px;
-            padding: 20px;
-            color: #64748b;
-            font-size: 0.9rem;
-        }
+### 🌍 Clima360
+**NASA Space App Challenge Project**
+> Interactive Power BI dashboards for climate data
 
-        .glow-text {
-            text-shadow: 0 0 20px rgba(139, 92, 246, 0.5);
-        }
+![Power BI](https://img.shields.io/badge/Power_BI-1A1A1A?style=flat-square&logo=powerbi&logoColor=F2C811)
+![NASA](https://img.shields.io/badge/NASA-Global_Nominee-1A1A1A?style=flat-square&logo=nasa&logoColor=0B3D91)
 
-        @media (max-width: 768px) {
-            .header h1 {
-                font-size: 2.5rem;
-            }
-            
-            .container {
-                padding: 10px;
-            }
-            
-            .section {
-                padding: 20px;
-            }
-            
-            .badges {
-                gap: 8px;
-            }
-            
-            .social-links {
-                flex-direction: column;
-                align-items: center;
-            }
-        }
+*Global Nominee (Top 947 teams) – NASA Space Apps 2024*
 
-        .floating-elements {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: -1;
-        }
+</td>
+<td width="50%">
 
-        .floating-circle {
-            position: absolute;
-            border-radius: 50%;
-            background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(59, 130, 246, 0.1));
-            animation: float 6s ease-in-out infinite;
-        }
+### 🛟 DCON
+**Disaster Communication App**
+> LoRa-based disaster communication app for NGOs/aid providers
 
-        .floating-circle:nth-child(1) {
-            width: 100px;
-            height: 100px;
-            top: 20%;
-            left: 10%;
-            animation-delay: 0s;
-        }
+![IoT](https://img.shields.io/badge/IoT-LoRa-1A1A1A?style=flat-square&logo=internet-of-things&logoColor=BB86FC)
+![Communication](https://img.shields.io/badge/Emergency-Communication-1A1A1A?style=flat-square&logo=emergency&logoColor=FF6B35)
 
-        .floating-circle:nth-child(2) {
-            width: 150px;
-            height: 150px;
-            top: 60%;
-            right: 10%;
-            animation-delay: 2s;
-        }
+*Hackfest @ SSN College*
 
-        .floating-circle:nth-child(3) {
-            width: 80px;
-            height: 80px;
-            top: 40%;
-            left: 80%;
-            animation-delay: 4s;
-        }
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-20px); }
-        }
-    </style>
-</head>
-<body>
-    <div class="floating-elements">
-        <div class="floating-circle"></div>
-        <div class="floating-circle"></div>
-        <div class="floating-circle"></div>
-    </div>
+### 🌐 Developer Community Forum
+**Collaboration Platform**
+> Collaboration space for aspiring developers
 
-    <div class="container">
-        <div class="header">
-            <h1 class="glow-text">👋 Hey, I'm Aswini M S</h1>
-            <p><strong>Founder. Futurist. Full-stack Warlock.<br>
-            I don't just build websites—I build realms.</strong></p>
-            <div class="badges">
-                <span class="badge">Founder - Script & Style</span>
-                <span class="badge">Founder - Orivox</span>
-                <span class="badge">NASA Space Apps Global Nominee</span>
-                <span class="badge">Hackathon Explorer</span>
-            </div>
-        </div>
+![Community](https://img.shields.io/badge/Community-Building-1A1A1A?style=flat-square&logo=users&logoColor=FF6B35)
+![Collaboration](https://img.shields.io/badge/Developer-Collaboration-1A1A1A?style=flat-square&logo=github&logoColor=white)
 
-        <div class="section">
-            <h3><span class="emoji">🎓</span> Profession / Current Role</h3>
-            <p><strong>3rd Year B.E. Electrical and Electronics Engineering</strong> @ Sri Eshwar College of Engineering</p>
-            <p><strong>Founder:</strong> Script & Style – Freelance Web Design Studio</p>
-            <p><strong>Founder:</strong> Orivox – Innovating Futuristic Display & Embedded Tech</p>
-            <p>Web Designer | Freelancer | Hackathon Explorer | Builder of Tech for Good</p>
-        </div>
+*Community Building & Collaboration*
 
-        <div class="section">
-            <h3><span class="emoji">🔧</span> Top Skills & Technologies</h3>
-            <div class="skill-category">
-                <div class="skill-title">Frontend:</div>
-                <div class="skills">
-                    <span class="skill">React.js</span>
-                    <span class="skill">Next.js</span>
-                    <span class="skill">Tailwind CSS</span>
-                    <span class="skill">DaisyUI</span>
-                    <span class="skill">Framer Motion</span>
-                </div>
-            </div>
-            <div class="skill-category">
-                <div class="skill-title">Backend:</div>
-                <div class="skills">
-                    <span class="skill">Node.js</span>
-                    <span class="skill">Express.js</span>
-                    <span class="skill">MongoDB</span>
-                    <span class="skill">Spring Boot</span>
-                </div>
-            </div>
-            <div class="skill-category">
-                <div class="skill-title">Full Stack:</div>
-                <div class="skills">
-                    <span class="skill">MERN Stack</span>
-                    <span class="skill">REST APIs</span>
-                    <span class="skill">Mongoose</span>
-                    <span class="skill">JWT Auth</span>
-                </div>
-            </div>
-            <div class="skill-category">
-                <div class="skill-title">App Dev:</div>
-                <div class="skills">
-                    <span class="skill">Flutter</span>
-                    <span class="skill">Firebase</span>
-                </div>
-            </div>
-            <div class="skill-category">
-                <div class="skill-title">Programming:</div>
-                <div class="skills">
-                    <span class="skill">Python</span>
-                    <span class="skill">C</span>
-                    <span class="skill">Java</span>
-                </div>
-            </div>
-            <div class="skill-category">
-                <div class="skill-title">Design/UX:</div>
-                <div class="skills">
-                    <span class="skill">Figma</span>
-                    <span class="skill">Three.js</span>
-                </div>
-            </div>
-            <div class="skill-category">
-                <div class="skill-title">Data Tools:</div>
-                <div class="skills">
-                    <span class="skill">Power BI</span>
-                    <span class="skill">Pandas</span>
-                    <span class="skill">NumPy</span>
-                    <span class="skill">Matplotlib</span>
-                </div>
-            </div>
-        </div>
+</td>
+<td width="50%">
 
-        <div class="section">
-            <h3><span class="emoji">🌟</span> Notable Projects & Startups</h3>
-            <div class="project">
-                <h4>🚀 Script & Style</h4>
-                <div class="project-desc">Freelance Web Design Studio – Building portfolios & websites for students/startups</div>
-                <div class="project-tech">Founder | Full Stack Developer | UI/UX Designer | React.js • Tailwind • Firebase</div>
-            </div>
-            <div class="project">
-                <h4>🪟 Orivox Transparent Display</h4>
-                <div class="project-desc">Smart Display Technology – R&D for transparent LCD panels, futuristic interfaces</div>
-                <div class="project-tech">Founder | Embedded Tech & Product Design | Embedded Systems</div>
-            </div>
-            <div class="project">
-                <h4>🌐 Developer Community Forum</h4>
-                <div class="project-desc">Collaboration space for aspiring developers</div>
-                <div class="project-tech">Community Building & Collaboration</div>
-            </div>
-            <div class="project">
-                <h4>🌍 Clima360</h4>
-                <div class="project-desc">NASA Space App Challenge Project – Interactive Power BI dashboards for climate data</div>
-                <div class="project-tech">Global Nominee (Top 947 teams) – NASA Space Apps 2024</div>
-            </div>
-            <div class="project">
-                <h4>🛟 DCON</h4>
-                <div class="project-desc">LoRa-based disaster communication app for NGOs/aid providers</div>
-                <div class="project-tech">Hackfest @ SSN College</div>
-            </div>
-            <div class="project">
-                <h4>🍏 Healthify Me</h4>
-                <div class="project-desc">Diet & wellness app using Edamam API</div>
-                <div class="project-tech">Internal Hackathon Finalist</div>
-            </div>
-        </div>
+### 🍏 Healthify Me
+**Diet & Wellness App**
+> Diet & wellness app using Edamam API
 
-        <div class="section">
-            <h3><span class="emoji">🏆</span> Achievements & Recognitions</h3>
-            <div class="achievement">🥇 <strong>First Rank Holder</strong> (2 years, EEE Dept)</div>
-            <div class="achievement">🚀 <strong>Founder</strong> – Script & Style & Orivox</div>
-            <div class="achievement">🌍 <strong>NASA Space App Challenge – Global Nominee</strong></div>
-            <div class="achievement">🪟 <strong>Built transparent display prototype</strong> (Orivox)</div>
-            <div class="achievement">🎓 <strong>Participant</strong> – Hackfest @ SSN & E-Summit @ IIT Madras</div>
-            <div class="achievement">🥇 <strong>1st Place</strong> – Mini Project (Dept level)</div>
-            <div class="achievement">🏅 <strong>6th Place</strong> – College Hackathon</div>
-            <div class="achievement">📊 <strong>Balanced high academic performance with project leadership</strong></div>
-        </div>
+![API](https://img.shields.io/badge/Edamam-API-1A1A1A?style=flat-square&logo=api&logoColor=4CAF50)
+![Health](https://img.shields.io/badge/Health-Wellness-1A1A1A?style=flat-square&logo=heart&logoColor=E91E63)
 
-        <div class="section">
-            <h3><span class="emoji">🧠</span> Interests & Passions</h3>
-            <p>🚀 Startup Ideation & Building Futuristic Tech</p>
-            <p>🌌 Passionate about Astrobiology, Space Science, and Sci-fi Research</p>
-            <p>🏏 Hardcore Cricket Lover</p>
-        </div>
+*Internal Hackathon Finalist*
 
-        <div class="section">
-            <h3><span class="emoji">🔗</span> Let's Connect</h3>
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/aswini-m-s-8b10a8310/" class="social-link">LinkedIn</a>
-                <a href="https://github.com/aswini27ms" class="social-link">GitHub</a>
-                <a href="mailto:aswini.ms2023eee@sece.ac.in" class="social-link">Email</a>
-            </div>
-        </div>
+</td>
+</tr>
+</table>
 
-        <div class="motto">
-            <p>"Where creativity meets code, innovation begins—and that's where I thrive."</p>
-        </div>
+---
 
-        <div class="footer">
-            <p>⚡ Always open to connect, collaborate & create something magical!</p>
-        </div>
-    </div>
-</body>
-</html>
+## 🏆 Achievements & Recognitions
+
+<div align="center">
+  
+| 🏅 Achievement | 📊 Details |
+|:---:|:---:|
+| 🥇 **First Rank Holder** | 2 years, EEE Department |
+| 🚀 **Dual Founder** | Script & Style & Orivox |
+| 🌍 **NASA Global Nominee** | Space Apps Challenge 2024 |
+| 🪟 **Innovation** | Built transparent display prototype |
+| 🎓 **Hackathon Participant** | SSN College & IIT Madras |
+| 🥇 **1st Place** | Mini Project (Department level) |
+| 🏅 **6th Place** | College Hackathon |
+| 📊 **Academic Excellence** | High performance with project leadership |
+
+</div>
+
+---
+
+## 🧠 Interests & Passions
+
+<div align="center">
+
+```
+🚀 Startup Ideation & Building Futuristic Tech
+🌌 Passionate about Astrobiology, Space Science, and Sci-fi Research
+🏏 Hardcore Cricket Lover
+```
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aswini%20M%20S-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/aswini-m-s-8b10a8310/)
+[![GitHub](https://img.shields.io/badge/GitHub-aswini27ms-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswini27ms)
+[![Email](https://img.shields.io/badge/Email-aswini.ms2023eee@sece.ac.in-1A1A1A?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:aswini.ms2023eee@sece.ac.in)
+
+</div>
+
+---
+
+## 💬 Personal Motto
+
+<div align="center">
+  
+> ### *"Where creativity meets code, innovation begins—and that's where I thrive."*
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⚡ Always open to connect, collaborate & create something magical!
+
+![Profile Views](https://komarev.com/ghpvc/?username=aswini27ms&color=BB86FC&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
+</div>
