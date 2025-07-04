@@ -298,11 +298,6 @@ CopyPublish<div align="center">
       <br><br>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="50"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </td>
   </tr>
 </table>
 
@@ -336,21 +331,6 @@ CopyPublish<div align="center">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50"/>
       <br><br>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
     </td>
   </tr>
 </table>
