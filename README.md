@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aswini M S
 
-CopyPublish<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,15,9&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=40&fontAlignY=35&desc=Where%20Innovation%20Meets%20Code&descAlignY=50&descAlign=50" />
 </div>
 
